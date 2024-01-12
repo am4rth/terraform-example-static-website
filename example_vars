@@ -1,0 +1,4 @@
+bucket_name = "your-blog-static"
+domain_zone = "your-domain.org"
+domain_name = "blog.your-domain.org"
+aws_profile = "default"
